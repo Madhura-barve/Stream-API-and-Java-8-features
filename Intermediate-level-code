@@ -1,7 +1,0 @@
-->Intermediate:
-Collectors.groupingBy
-Collectors.partitioningBy
-Collectors.joining
-mapToDouble().average()
-sorted().skip().limit() tricks
-Custom objects (Employee)
